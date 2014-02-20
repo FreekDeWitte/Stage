@@ -1,4 +1,4 @@
-var cupcakes = {
+{
     "type": "FeatureCollection",
     "expireDate": "2014-02-14T09:36:20Z",
     "features": [
